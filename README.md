@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+scheduling-management
+# Scheduling Management
 
 > Slugline
 
